@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nastassia Yankova</h1>
 <h3 align="center">A passionate ML developer from Belarus</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dumonten&label=Profile%20views&color=0e75b6&style=flat" alt="dumonten" /> </p>
-
 - 🔭 I’m currently working on **my EconScope (an application for financial control) with my friend**
 
 - 🌱 I’m currently learning **ML and Data Science**
